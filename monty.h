@@ -1,6 +1,8 @@
 #ifndef _MONTY_
 #define _MONTY_
 
+#define  _POSIX_C_SOURCE 200809L
+
 /* Constants */
 #define SUCSS_OP		0
 #define VALID_PARM		0
